@@ -1,6 +1,6 @@
 
 
-Hi in Adeyemi Bukunmi, i'm a smart contract developer(solidity) and fullstack developer with reactJs and django. I am currently learning golang for core blockchain development,
+Hi i'm Adeyemi Bukunmi, i'm a smart contract developer(solidity) and fullstack developer with reactJs and django. I am currently learning golang for core blockchain development,
 the very idea of decentrality amazes me and im more than happy to contribute to this space. Im your go to guy if you want to collaborate on some amazing projects 
 You can contact me on 
 gmail badeydev.gm@gmail.com
